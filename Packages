@@ -1,0 +1,14 @@
+Package: com.teckmek.dairy
+Name: Dairy
+Version: 0.1
+Architecture: iphoneos-arm64
+Description: (This is a test package!) 
+Maintainer: archiebundy09@gmail.com
+Author: archiebundy09@gmail.com
+Section: Tweaks
+Depends: 
+Filename: debs/love.litten.diary_1.0-508debug_iphoneos-arm.deb
+Size: 2544000
+MD5sum: 419df3885f99bd0708e69dff3c91e7c7
+SHA1: CE5CB80AF16E2EC1EF9C6F99DDAB7C5781E02FA9
+SHA256: e746e39da521b952c60ef5f5411423f52b27862a83b34797d4928ae5b7ba7ef0
